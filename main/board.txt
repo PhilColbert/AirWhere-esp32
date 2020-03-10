@@ -1,0 +1,2 @@
+# Airwhere_flarm_ogn_vario_3_13 build property overrides
+build.code_debug = 5
